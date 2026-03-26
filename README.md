@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repository is no longer maintained.** It has been consolidated into [`box/box-for-ai`](https://github.com/box/box-for-ai), which includes this plugin alongside skills and support for additional platforms. Please refer to that repo for the latest updates and installation instructions.
+
 # Box Content API — Codex Skill
 
 An [OpenAI Codex](https://openai.com/index/openai-codex/) skill that helps Codex build and troubleshoot Box integrations: uploads, folders, downloads, shared links, collaborations, search, metadata, webhooks, and Box AI retrieval.
